@@ -27,4 +27,4 @@ std2 = Student("Suraj Desai","2VD24CI407",79,team2)
           ^^^^^^^^^^^^^^^^^
 AttributeError: 'Student' object has no attribute '__parcentage'
 """
-std1.get_percentage()
+print(std1.get_percentage())
